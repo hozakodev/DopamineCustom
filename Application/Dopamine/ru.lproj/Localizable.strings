@@ -5,32 +5,32 @@
 "Log_Error" = "Неудачно";
 
 // Jailbreak Button
-"Button_Jailbreak_Title" = "Джейлбрейк";
-"Status_Title_Jailbroken" = "Джейлбрейк выполнен";
-"Unsupported" = "Не поддерживается";
+"Button_Jailbreak_Title" = "ja1lbr3ak";
+"Status_Title_Jailbroken" = "jailbr0ken";
+"Unsupported" = "not supported";
 
 // Action Menu
-"Menu_Settings_Title" = "Настройки";
-"Menu_Restart_SpringBoard_Title" = "Перезапустить SpringBoard";
-"Menu_Reboot_Userspace_Title" = "Перезагрузить Userspace";
-"Menu_Credits_Title" = "Благодарности";
+"Menu_Settings_Title" = "sett1ngs";
+"Menu_Restart_SpringBoard_Title" = "respr1ng";
+"Menu_Reboot_Userspace_Title" = "r3start us3rspace";
+"Menu_Credits_Title" = "thanks t0";
 
 // Updating
-"Button_Update" = "Обновить";
-"Button_Update_Available" = "Доступно обновление";
-"Button_Update_Environment" = "Обновить переменную среду";
+"Button_Update" = "refr3sh";
+"Button_Update_Available" = "upd2te avaibl3";
+"Button_Update_Environment" = "update environment";
 
 // Update View
-"Update_Status_Downloading" = "Загрузка обновления...";
-"Update_Status_Subtitle_Please_Wait" = "Пожалуйста подождите, пока файлы будут загружены";
-"Update_Status_Installing" = "Установка обновления...";
-"Update_Status_Subtitle_Restart_Soon" = "Устройство скоро перезагрузится";
-"Title_Changelog" = "Список изменений";
-"Changelog_Unavailable_Text" = "Список изменений недоступен";
+"Update_Status_Downloading" = "load1ng update";
+"Update_Status_Subtitle_Please_Wait" = "pls wa1t";
+"Update_Status_Installing" = "updat1ng";
+"Update_Status_Subtitle_Restart_Soon" = "ur phone restart s00n";
+"Title_Changelog" = "changel0g";
+"Changelog_Unavailable_Text" = "log unavaible";
 
 // Removed Jailbreak Alert
-"Removed_Jailbreak_Alert_Title" = "Джейлбрейк удалён";
-"Removed_Jailbreak_Alert_Message" = "Джейлбрейк успешно удален. Рекомендуется перезагрузить устройство.";
+"Removed_Jailbreak_Alert_Title" = "rem0ved.";
+"Removed_Jailbreak_Alert_Message" = "ja1l rem0ved. restart is rec0mmended";
 "Button_Close" = "Закрыть";
 
 // Error View
