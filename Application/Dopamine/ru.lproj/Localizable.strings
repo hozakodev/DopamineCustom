@@ -61,19 +61,19 @@
 
 // Settings Alerts
 "Alert_Tweak_Injection_Toggled_Title" = "r3start us3rspac3!";
-"Alert_Tweak_Injection_Toggled_Body" = "Чтобы изменения вступили в силу, нужно перезагрузить Userspace. Перезагрузить сейчас?";
-"Alert_Tweak_Injection_Toggled_Reboot_Now" = "Сейчас";
-"Alert_Tweak_Injection_Toggled_Reboot_Later" = "Потом";
-"Alert_Remove_Jailbreak_Title" = "Удаление джейлбрейка";
+"Alert_Tweak_Injection_Toggled_Body" = "restart userspace to apply changes. when you want to do it?";
+"Alert_Tweak_Injection_Toggled_Reboot_Now" = "now";
+"Alert_Tweak_Injection_Toggled_Reboot_Later" = "later";
+"Alert_Remove_Jailbreak_Title" = "remov1n' ja1l";
 "Alert_Remove_Jailbreak_Pressed_Body" = "Удаление джейлбрейка приведёт к удалению всех файлов, связанных с джейлбрейком, но все обычные приложения, файлы и данные будут сохранены. Вы уверены, что хотите продолжить? Вы не сможете отменить это действие.";
 "Alert_Remove_Jailbreak_Enabled_Body" = "Нажимая \"Удаление джейлбрейка\", все файлы, связанные с джейлбрейком, будут удалены до следующего джейлбрейка. Все обычные приложения, файлы и данные будут сохранены. Вы уверены, что хотите продолжить? Вы не сможете отменить это действие.";
 "Alert_Change_Mobile_Password_Body" = "Установите пароль \"mobile\" пользователя на вашем устройстве, который также можно использовать для доступа root с помощью sudo. Если вы хотите установить пароль root, вы можете сделать это из мобильной оболочки, используя команду \"sudo passwd root\"";
-"Password_Placeholder" = "Пароль";
-"Repeat_Password_Placeholder" = "Повторите пароль";
+"Password_Placeholder" = "pass";
+"Repeat_Password_Placeholder" = "repeat pass";
 /*Password_Auth_Required*/
-"Button_Change" = "Изменить";
-"Button_Cancel" = "Отмена";
-"Button_Continue" = "Продолжить";
+"Button_Change" = "chang3";
+"Button_Cancel" = "canc3l";
+"Button_Continue" = "c0ntinue";
 
 // Duplicate Apps Errors
 "Duplicate_Apps_Error_Dopamine_App" = "Обнаружено несколько приложений с идентификатором \"%@\" внутри пути Dopamine (\"%@\"). Невозможно продолжить.";
@@ -81,11 +81,11 @@
 "Duplicate_Apps_Error_Icon_Cache" = "Приложение с идентификатором \"%@\" есть в каталоге приложений (\"%@\"), но также зарегистрировано в кэше иконок по пути (\"%@\"). Невозможно продолжить.";
 
 // Settings Lists
-"Theme" = "Темы";
-"Kernel Exploit" = "Эксплоит Ядра";
-"PPL Bypass" = "Обход PPL";
-"SPTM Bypass" = "Обход SPTM";
-"PAC Bypass" = "Обход PAC";
+"Theme" = "themes";
+"Kernel Exploit" = "kern3l exp";
+"PPL Bypass" = "ppl bypass";
+"SPTM Bypass" = "sptm bypass";
+"PAC Bypass" = "pac bypass";
 /*None*/
 /*Recommended*/
 
