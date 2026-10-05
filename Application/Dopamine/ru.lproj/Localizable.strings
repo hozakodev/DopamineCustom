@@ -52,15 +52,15 @@
 "Button_Change_Mobile_Password" = "change password for \"mobile\"";
 
 // Settings Hints
-"Hint_Hide_Jailbreak" = "\"Скрыть джейлбрейк\" временно удаляет файлы, связанные с джейлбрейком, до следующего джейлбрейка";
+"Hint_Hide_Jailbreak" = "\"Скрыть джейлбрейк\" removes files associated with ja1l";
 /*Hint_Hide_Jailbreak_Jailbroken*/
-"Section_Jailbreak_Settings" = "Настройки джейлбрейка";
-"Section_Actions" = "Действия";
-"Section_Customization" = "Кастомизация";
-"Section_Exploits" = "Эксплоиты";
+"Section_Jailbreak_Settings" = "ja1l settings";
+"Section_Actions" = "act1ons";
+"Section_Customization" = "cust0mizat1on";
+"Section_Exploits" = "expl0its";
 
 // Settings Alerts
-"Alert_Tweak_Injection_Toggled_Title" = "Перезагрузите Userspace";
+"Alert_Tweak_Injection_Toggled_Title" = "r3start us3rspac3!";
 "Alert_Tweak_Injection_Toggled_Body" = "Чтобы изменения вступили в силу, нужно перезагрузить Userspace. Перезагрузить сейчас?";
 "Alert_Tweak_Injection_Toggled_Reboot_Now" = "Сейчас";
 "Alert_Tweak_Injection_Toggled_Reboot_Later" = "Потом";
