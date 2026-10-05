@@ -34,22 +34,22 @@
 "Button_Close" = "Закрыть";
 
 // Error View
-"Button_Share" = "Поделиться";
-"Button_Reboot" = "Перезагрузить";
+"Button_Share" = "shar3";
+"Button_Reboot" = "r3boot";
 
 // Settings Toggles
-"Settings_Tweak_Injection" = "Внедрение твиков";
-"Settings_iDownload" = "iDownload (Терминал разработчика)";
-"Settings_Verbose_Logs" = "Расширенные логи";
-"Settings_Apps_JIT" = "Разрешить JIT в приложениях";
+"Settings_Tweak_Injection" = "tw3ak inj3cti0n";
+"Settings_iDownload" = "idownload";
+"Settings_Verbose_Logs" = "verb0se l0gs";
+"Settings_Apps_JIT" = "allow j1t in apps";
 
 // Settings Buttons
-"Button_Remove_Jailbreak" = "Удалить джейлбрейк";
-"Button_Hide_Jailbreak" = "Скрыть джейлбрейк";
-"Button_Unhide_Jailbreak" = "Отобразить джейлбрейк";
-"Button_Refresh_Jailbreak_Apps" = "Обновить приложения джейлбрейка";
-"Button_Reinstall_Package_Managers" = "Переустановить менеджеры пакетов";
-"Button_Change_Mobile_Password" = "Изменить пароль для \"mobile\"";
+"Button_Remove_Jailbreak" = "uninstall ja1l";
+"Button_Hide_Jailbreak" = "hide ja1l";
+"Button_Unhide_Jailbreak" = "sh0w ja1l";
+"Button_Refresh_Jailbreak_Apps" = "update ja1l app";
+"Button_Reinstall_Package_Managers" = "re1nstall package manag3rs";
+"Button_Change_Mobile_Password" = "change password for \"mobile\"";
 
 // Settings Hints
 "Hint_Hide_Jailbreak" = "\"Скрыть джейлбрейк\" временно удаляет файлы, связанные с джейлбрейком, до следующего джейлбрейка";
